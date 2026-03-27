@@ -73,10 +73,10 @@ Sou profissional com +10 anos de experiência em desenvolvimento de software e l
 ---
 
 > [!IMPORTANT]
-> Skills separadas por perfil.
+> Skills com percentuais (baseadas no seu cvData) organizadas em blocos lado a lado.
 
 | Backend | Bancos | Frontend | DevOps/SRE | Dados | Gestão |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" /><br>Java / Spring | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" /><br>SQL Server | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" /><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /><br>Docker | <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="30" alt="Power BI" /><br>Power BI | <img src="https://img.icons8.com/?size=100&id=VnAs16Q9VvJP&format=png&color=000000" height="30" alt="Trello" /><br>Trello |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" /><br>C# / ASP.NET | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" /><br>PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" /><br>Angular | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" /><br>Kubernetes |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="Kubernetes" /> Microsoft Analysis Services | <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" height="30" alt="Jira" /><br>Jira |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" /><br>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /><br>MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" /><br>Next.js | <img src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" height="30" alt="AWS" /><br>AWS |  | <img src="https://img.icons8.com/?size=100&id=RFrcyhvx8pt4&format=png&color=000000" height="30" alt="Confluence" /><br>Confluence |
@@ -125,3 +125,7 @@ Sou profissional com +10 anos de experiência em desenvolvimento de software e l
 - LinkedIn: https://www.linkedin.com/in/marcelo-barboza-da-silva-547941199  
 - E-mail: marcelo.barboza.cmkp@gmail.com  
 - WhatsApp: https://wa.me/5511913319489?text=Ol%C3%A1%20Marcelo%2C%20vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20conversar!
+
+---
+
+<div align="center">Feito com muito código e café <img src="https://img.icons8.com/?size=100&id=72000&format=png&color=000000" height="30" alt="CSS3" /> por <strong>Marcelo Barboza</strong></div>
