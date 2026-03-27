@@ -1,11 +1,7 @@
 
+# Marcelo Barboza da Silva
 **`Especialista Técnico • Arquiteto de Software • Tech Lead`**
 
-<div align="center">
-  <img src="https://github.com/Marcelo7211.png" width="160" alt="Foto Marcelo"
-       style="border-radius: 50%; border: 4px solid #0d1117;" />
-</div>
-# Marcelo Barboza da Silva
 Sou profissional com +10 anos de experiência em desenvolvimento de software e liderança técnica. Atuo na interseção entre tecnologia, educação e transformação digital, com foco em sistemas escaláveis, alta disponibilidade e formação de equipes de alto desempenho.
 
 <p align="left">
@@ -44,7 +40,7 @@ Sou profissional com +10 anos de experiência em desenvolvimento de software e l
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring" title="Spring" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NestJS" title="NestJS" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" />
+<img align="left" alt="NestJS" title="NestJS" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" />
 <img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -52,13 +48,14 @@ Sou profissional com +10 anos de experiência em desenvolvimento de software e l
 <img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" />
 <img align="left" alt="Google Cloud" title="Google Cloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="MySql" title="MySql" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" />
 <img align="left" alt="Jenkins" title="Jenkins" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Grafana" title="Grafana" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
 
 <br/>
 <br/>
-
+<br/>
 
 
 ## 📊 GitHub Stats
@@ -76,19 +73,17 @@ Sou profissional com +10 anos de experiência em desenvolvimento de software e l
 ---
 
 > [!IMPORTANT]
-> Skills com percentuais (baseadas no seu cvData) organizadas em blocos lado a lado.
+> Skills separadas por perfil.
 
-| Frontend | Backend |
-|---|---|
-| React ![React 90%](https://progress-bar.dev/90/?title=React&color=61dafb&width=240) <br> Angular ![Angular 85%](https://progress-bar.dev/85/?title=Angular&color=dd0031&width=240) <br> TypeScript ![TypeScript 90%](https://progress-bar.dev/90/?title=TypeScript&color=3178c6&width=240) <br> JavaScript ![JavaScript 95%](https://progress-bar.dev/95/?title=JavaScript&color=f7df1e&width=240) | C# / ASP.NET ![C# 95%](https://progress-bar.dev/95/?title=C%23%20ASP.NET&color=9b4f96&width=240) <br> Java / Spring ![Java 90%](https://progress-bar.dev/90/?title=Java%20Spring&color=6db33f&width=240) <br> Node.js ![Node 85%](https://progress-bar.dev/85/?title=Node.js&color=339933&width=240) <br> Python ![Python 80%](https://progress-bar.dev/80/?title=Python&color=3776ab&width=240) |
-
-| DevOps | Arquitetura |
-|---|---|
-| Docker ![Docker 85%](https://progress-bar.dev/85/?title=Docker&color=0db7ed&width=240) <br> Kubernetes ![Kubernetes 80%](https://progress-bar.dev/80/?title=Kubernetes&color=326ce5&width=240) <br> AWS ![AWS 85%](https://progress-bar.dev/85/?title=AWS&color=ff9900&width=240) <br> Google Cloud ![GCP 75%](https://progress-bar.dev/75/?title=GCP&color=4285f4&width=240) <br> Jenkins ![Jenkins 80%](https://progress-bar.dev/80/?title=Jenkins&color=d24939&width=240) | Microsserviços ![Microsserviços 90%](https://progress-bar.dev/90/?title=Microsservi%C3%A7os&color=6366f1&width=240) <br> APIs REST ![REST 95%](https://progress-bar.dev/95/?title=APIs%20REST&color=10b981&width=240) <br> SRE & Observabilidade ![SRE 85%](https://progress-bar.dev/85/?title=SRE%20%26%20Observabilidade&color=f59e0b&width=240) <br> Event-Driven ![ED 85%](https://progress-bar.dev/85/?title=Event-Driven&color=fb7185&width=240) |
-
-| Dados | Automação & Coordenação |
-|---|---|
-| SQL Server ![SQL Server 90%](https://progress-bar.dev/90/?title=SQL%20Server&color=dc2626&width=240) <br> PostgreSQL ![PostgreSQL 85%](https://progress-bar.dev/85/?title=PostgreSQL&color=3b82f6&width=240) | Integração de APIs ![APIs 90%](https://progress-bar.dev/90/?title=APIs&color=14b8a6&width=240) <br> Automação com Python ![Python 85%](https://progress-bar.dev/85/?title=Autom.Python&color=2563eb&width=240) <br> Coordenação de Projetos ![Coordenação 95%](https://progress-bar.dev/95/?title=Coord.Projetos&color=a855f7&width=240) <br> OKRs & KPIs ![OKRs 85%](https://progress-bar.dev/85/?title=OKRs%20%26%20KPIs&color=f43f5e&width=240) |
+| Backend | Bancos | Frontend | DevOps/SRE | Dados | Gestão |
+|---|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" /><br>Java / Spring | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" /><br>SQL Server | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" /><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /><br>Docker | <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="30" alt="Power BI" /><br>Power BI | <img src="https://img.icons8.com/?size=100&id=VnAs16Q9VvJP&format=png&color=000000" height="30" alt="Trello" /><br>Trello |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" /><br>C# / ASP.NET | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" /><br>PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" /><br>Angular | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" /><br>Kubernetes |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="Kubernetes" /> Microsoft Analysis Services | <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" height="30" alt="Jira" /><br>Jira |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" /><br>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /><br>MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" /><br>Next.js | <img src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" height="30" alt="AWS" /><br>AWS |  | <img src="https://img.icons8.com/?size=100&id=RFrcyhvx8pt4&format=png&color=000000" height="30" alt="Confluence" /><br>Confluence |
+| <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="NestJS" /><br>NestJS | <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" height="30" alt="MySQL" /><br>MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" /><br>TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" /><br>Google Cloud |  |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /><br>Python |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /><br>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" /><br>Jenkins |  |  |
+|  |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /><br>HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" /><br>Grafana |  |  |
+|  |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /><br>CSS3 |  |  |  |
 
 ---
 
@@ -109,9 +104,6 @@ Sou profissional com +10 anos de experiência em desenvolvimento de software e l
 - Portal Financeiro & Corretagem — -50% latência de dados  
   Stack: Node.js, NestJS, Redis  
   App: https://portal-financeiro-corretagem-white.vercel.app
-
-### 🎚️ Skills (Range Bars)
-
 
 
 ### 🧳 Experiência
