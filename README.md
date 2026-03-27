@@ -127,5 +127,10 @@ Sou profissional com +10 anos de experiência em desenvolvimento de software e l
 - WhatsApp: https://wa.me/5511913319489?text=Ol%C3%A1%20Marcelo%2C%20vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20conversar!
 
 ---
+<br/>
+<br/>
 
 <div align="center">Feito com muito código e café <img src="https://img.icons8.com/?size=100&id=72000&format=png&color=000000" height="30" alt="CSS3" /> por <strong>Marcelo Barboza</strong></div>
+
+<br/>
+<br/>
