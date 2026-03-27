@@ -1,9 +1,11 @@
-# 👨🏻‍💻 Marcelo Barboza da Silva
 
 **`Especialista Técnico • Arquiteto de Software • Tech Lead`**
 
-<img src="https://github.com/Marcelo7211.png" width="120" alt="Foto Marcelo" />
-
+<div align="center">
+  <img src="https://github.com/Marcelo7211.png" width="160" alt="Foto Marcelo"
+       style="border-radius: 50%; border: 4px solid #0d1117;" />
+</div>
+# Marcelo Barboza da Silva
 Sou profissional com +10 anos de experiência em desenvolvimento de software e liderança técnica. Atuo na interseção entre tecnologia, educação e transformação digital, com foco em sistemas escaláveis, alta disponibilidade e formação de equipes de alto desempenho.
 
 <p align="left">
@@ -107,6 +109,10 @@ Sou profissional com +10 anos de experiência em desenvolvimento de software e l
 - Portal Financeiro & Corretagem — -50% latência de dados  
   Stack: Node.js, NestJS, Redis  
   App: https://portal-financeiro-corretagem-white.vercel.app
+
+### 🎚️ Skills (Range Bars)
+
+
 
 ### 🧳 Experiência
 
